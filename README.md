@@ -12,9 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-- Please find the screenshots attached.
-a
-![](./screenshot.jpg)
+- Please find the screenshots attached. ![ScreenShot](Screenshots/Tip calculator ss.jpg)
 
 ### Links
 
