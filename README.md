@@ -12,7 +12,10 @@ Users should be able to:
 
 ### Screenshot
 
-- Please find the screenshots attached. ![ScreenShot](Screenshots/Tip calculator ss.jpg)
+- Please find the screenshots attached.
+
+![](https://github.com/FrolicBrat/March-22-Batch-JavaScript-Project---JavaScript-Project---28xti3yamfep/blob/c90fc19f1ada3c5c19868d530102afb7c27f171f/Screenshots/Tip%20calculator%20ss.jpg)
+
 
 ### Links
 
